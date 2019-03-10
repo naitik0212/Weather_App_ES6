@@ -1,3 +1,3 @@
-# SystemJS/JSPM Starter
+Accelerated ES6 Course Project to learn the new concepts like Promises, Reflect and Proxy APIs.
 
-This simple Plunker is here to be able to quickly get up and running with a sample SystemJS/JSPM in the browser.
+Please clone the repository and enter your own openweathermap.org api keys in app.js file and run the project.
